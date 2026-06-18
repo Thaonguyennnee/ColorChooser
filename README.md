@@ -39,7 +39,7 @@ You can install and use ColorChooser in two different ways, depending on your ne
 
 ### Method 1: Quick Use (No Installation Required)
 For users who just want to use the application without setting up a Python environment:
-1. Navigate to the `app` folder within this repository.
+1. Download the pre-packaged application from this **[Google Drive Link](https://drive.google.com/file/d/1BkCrYUfEp1GQJUk0nfEsH2RTmXINDuOn/view?usp=sharing)**.
 2. Download and extract the archive: `ColorChooser_v1.rar`.
 3. Run the executable file inside the extracted folder to launch the application.
 
@@ -95,7 +95,6 @@ Use this mode to process multiple files or batches of items simultaneously.
 
 ```text
 App_colour/
-├── app/                # Pre-packaged application; just extract the .rar to use
 ├── core/               # Core functionalities (OpenCV image processing, calculations)
 ├── ui/                 # User interface source code (style.qss, main_window.py, etc.)
 ├── main.py             # Main entry point to launch the application from source
